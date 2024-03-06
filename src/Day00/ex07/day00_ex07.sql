@@ -15,4 +15,4 @@ SELECT
 FROM
   person
 ORDER BY
-  interval_info
+  interval_info;

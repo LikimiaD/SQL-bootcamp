@@ -20,4 +20,4 @@ FROM
       menu
     ORDER BY
       pizza_name
-  ) AS menu
+  ) AS menu;

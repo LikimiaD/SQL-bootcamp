@@ -11,4 +11,4 @@ SELECT
 FROM
   person_visits
 WHERE
-  visit_date = '2022-01-07'
+  visit_date = '2022-01-07';

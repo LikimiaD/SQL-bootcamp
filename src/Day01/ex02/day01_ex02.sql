@@ -8,4 +8,4 @@ SELECT
 FROM
   menu
 ORDER BY
-  pizza_name DESC
+  pizza_name DESC;

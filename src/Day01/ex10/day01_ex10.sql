@@ -10,4 +10,4 @@ FROM
 ORDER BY
   person_name,
   pizza_name,
-  pizzeria_name
+  pizzeria_name;

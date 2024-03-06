@@ -6,4 +6,4 @@ SELECT
 FROM
   person_order
 WHERE
-  id % 2 = 0
+  id % 2 = 0;

@@ -6,4 +6,4 @@ FROM
   JOIN person ON person_order.person_id = person.id
 ORDER BY
   action_date,
-  person_information
+  person_information;

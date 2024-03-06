@@ -22,4 +22,4 @@ WHERE
       person_visits
     WHERE
       pizzeria_id = pizzeria.id
-  )
+  );

@@ -22,4 +22,4 @@ WHERE
   AND '2022-01-09'
 ORDER BY
   person_name,
-  pizzeria_name DESC
+  pizzeria_name DESC;

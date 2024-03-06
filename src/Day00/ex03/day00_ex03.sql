@@ -7,4 +7,4 @@ WHERE
   AND '2022-01-09'
   OR pizzeria_id = '2'
 ORDER BY
-  person_id DESC
+  person_id DESC;

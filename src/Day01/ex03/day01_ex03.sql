@@ -11,4 +11,4 @@ FROM
   person_visits
 ORDER BY
   action_date,
-  person_id DESC
+  person_id DESC;

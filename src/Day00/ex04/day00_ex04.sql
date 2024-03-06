@@ -12,4 +12,4 @@ SELECT
 FROM
   person
 ORDER BY
-  line_info
+  line_info;

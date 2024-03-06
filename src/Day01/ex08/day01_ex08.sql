@@ -13,4 +13,4 @@ FROM
   ) AS person
 ORDER BY
   action_date,
-  person_information
+  person_information;
