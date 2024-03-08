@@ -18,6 +18,8 @@
 - [Day00](src/Day00/)
 - [Day01](src/Day01/)
 - [Day02](src/Day02/)
+- [Day04](src/Day03/)
+- [Day05](src/Day04/)
 
 ## Отказ от ответственности
 
