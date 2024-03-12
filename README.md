@@ -61,6 +61,10 @@ All solutions and tasks presented here are developed by me as part of my work an
   - Solve the comovoyardi problem 
 - [**Day05**](src/Day05/)
   - Data Governance Policies, Database indexes, Database Sequences.
+- [**Day06**](src/Day06/)
+  - Data Governance Policies, Database indexes, Database Sequences.
+- [**Day07**](src/Day07/)
+  - Data Governance Policies, Database indexes, Database Sequences.
 
 
 ## Disclaimer
