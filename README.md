@@ -65,6 +65,8 @@ All solutions and tasks presented here are developed by me as part of my work an
   - Data Governance Policies, Database indexes, Database Sequences.
 - [**Day07**](src/Day07/)
   - Data Governance Policies, Database indexes, Database Sequences.
+- [**Day08**](src/Day08/)
+  - Transactions and isolation levels.
 
 
 ## Disclaimer
