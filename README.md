@@ -67,7 +67,8 @@ All solutions and tasks presented here are developed by me as part of my work an
   - Data Governance Policies, Database indexes, Database Sequences.
 - [**Day08**](src/Day08/)
   - Transactions and isolation levels.
-
+- [**Day09**](src/Day09/)
+  - The task of the day is to create PostgreSQL functions to process the data.
 
 ## Disclaimer
 
